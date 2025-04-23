@@ -17,7 +17,64 @@ Machine Learning Regression models
 
 Real-world use cases in the automobile industry  
 
-#🧠 Objective
+#🧠 **Objective**
 
 To build a machine learning model that accurately predicts the selling price of used cars based on various features like the car's age, mileage, fuel type, transmission, and ownership details. The goal is to assist individuals or businesses in understanding vehicle pricing trends and making data-driven pricing decisions.
+
+**Methodology**
+This project follows a complete data science workflow, including:
+
+1 **Data Collection**
+
+Real-world dataset containing used car listings with pricing details.
+
+Dataset includes features such as car name, year, kilometers driven, fuel type, seller type, etc.
+
+2 **Data Preprocessing**
+
+Cleaning and encoding categorical variables.
+
+Removing irrelevant or redundant columns.
+
+Handling missing values (if any).
+
+3 **Exploratory Data Analysis (EDA)**
+
+Understanding feature distributions (e.g., selling price, fuel types).
+
+Visualizing correlations between variables.
+
+Outlier detection and feature importance.
+
+4 **Model Building**
+
+Features and target variable selection.
+
+Splitting data into training and testing sets.
+
+Training a Random Forest Regressor for price prediction.
+
+5 **Model Evaluation**
+
+Evaluating model performance using:
+
+📉 R² Score (Goodness of Fit)
+
+📉 Mean Squared Error (MSE)
+
+Visualizing actual vs. predicted prices.
+
+**Conclusion**
+
+Final performance summary.
+
+Real-world applicability of the model.
+
+📦 **Tools & Libraries Used Python 3**
+
+Pandas, NumPy – Data handling
+
+Seaborn, Matplotlib – Data visualization
+
+Scikit-learn – Machine learning and evaluation
 
