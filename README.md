@@ -17,6 +17,7 @@ Machine Learning Regression models
 
 Real-world use cases in the automobile industry  
 
-🧠 Objective
+#🧠 Objective
+
 To build a machine learning model that accurately predicts the selling price of used cars based on various features like the car's age, mileage, fuel type, transmission, and ownership details. The goal is to assist individuals or businesses in understanding vehicle pricing trends and making data-driven pricing decisions.
 
